@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-oct",
+  "version": "0.1.0",
+  "description": "Set of custom eslint rules for OCTanner",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "OCTanner"
+  ],
+  "author": "Tyler Haas",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.3.0",
+    "prettier": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
